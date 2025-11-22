@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 **Currently a student at:** Narula Institute of Technology  
-- 🧠 **Learning:** Python | Linux | Cloud Computing | DevOps Tools  
+- 🧠 **Learning:** Python | Cloud Computing | DevOps Tools  
 - 🔍 **Exploring:** Git, Docker, AWS, and Continuous Integration  
 - 🤝 **Looking to collaborate on:** Beginner-friendly open-source or learning projects  
 - 💡 **Learning Goals for 2026:**  
