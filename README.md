@@ -16,7 +16,7 @@
   - Build small automation & cloud deployment projects  
   - Contribute to open source  
   - Strengthen DevOps fundamentals  
-- 🛠️ **Skills:** Python | Git | Linux | Docker | Cloud Basics | CI/CD (Learning)  
+- 🛠️ **Skills:** Python | Git | Docker | Cloud Basics | CI/CD (Learning)  
 - ⚡ **Fun Fact:** I love Tech — and Tech loves me back 😄  
 
 ---
