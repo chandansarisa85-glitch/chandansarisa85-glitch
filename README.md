@@ -51,8 +51,6 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chand_Ansari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
   ## 💰 You can help me by Donating
